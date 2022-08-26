@@ -1,8 +1,10 @@
 # i3-config
 My i3 configuration
 
-´´´
+	```
 {
-this is a block code
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
 }
-´´´
+```
