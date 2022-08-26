@@ -2,8 +2,14 @@
 My i3 configuration
 
 
-...
+```
 {
-block of code
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
 }
-...
+```
+
+```
+block of code
+```
